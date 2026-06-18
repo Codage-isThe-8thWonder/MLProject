@@ -1,4 +1,14 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+flask
 -e .
+
+
+
+# python -m pip install -r requirements.txt
